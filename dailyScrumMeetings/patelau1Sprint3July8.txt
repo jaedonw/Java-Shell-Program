@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Testing history, ls, mkdir, popd, and cd commands
+    - Added honour code to every java class
+    - Formatted half the classes
+    - Finished Javadocs for History, Popd, Ls, Directory classes
+    - Made a bug fix for ls command where ".." input was incorrect at root directory 
+
+What do I plan to work in the next three days?
+    - Assignment2A finishes today
+
+Am I blocked on anything?
+    

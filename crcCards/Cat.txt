@@ -1,0 +1,12 @@
+Classname: Cat
+Parent class: Command, OutputRedirection
+Subclasses:
+
+Responsibilities:
+*Print the contents of one or more files to the shell
+
+Collaborators:
+*JShell
+*ErrorChecker
+*File
+*Interpreter

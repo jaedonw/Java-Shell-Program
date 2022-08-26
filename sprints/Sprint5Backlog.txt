@@ -1,0 +1,66 @@
+//Sprint 5 Backlog.  
+July 24 to August 2
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to create a copy of a file or directory.
+b) As a user, I want to save my JShell session so that in the future I can begin from where I left off.
+c) As a user, I want to begin a JShell session starting from where I left off in a previous saved session.
+d) As a user, I want to view all of the files that have a certain name in my computer’s file system
+e) As a user, I want to redirect the output of a command so that I can overwrite or append to a file.
+
+Specific tasks to be accomplished:
+0-1. Refactor the Cp, Interpreter, Pushd, File, ErrorChecker, JShell, FileSystem classes where/when appropriate
+0-2. Refactor the Ls, History, Popd, Directory, Rm, Command classes where/when appropriate
+0-3. Refactor the Cd, Echo, Mkdir, Mv, Tree classes where/when appropriate
+0-4. Refactor the Cat, Man, Pwd, Speak, Curl, Exit classes where/when appropriate
+0-5. Make any necessary modifications to the CRC card designs
+0-6. (Cd) Fix bug reported in marking details from A2a
+0-7. Write JUnit tests for Cp, Interpreter, Pushd, File, ErrorChecker, JShell, FileSystem classes and fix any bugs
+0-8. Write JUnit tests for  Ls, History, Popd, Directory, Rm, Command  and fix any bugs
+0-9. Write JUnit tests for Cd, Echo, Mkdir, Mv, Tree and fix any bugs
+0-10. Write JUnit tests for Cat, Man, Pwd, Speak, Curl, Exit and fix any bugs
+0-11. Format code with Google Java Style Code
+0-12. Ensure code corresponds with grading scheme Java style requirements
+0-13. Write/update JavaDoc for Cp, Interpreter, Pushd, File, ErrorChecker, JShell, FileSystem classes
+0-14. Write/update JavaDoc for  Ls, History, Popd, Directory, Rm, Command 
+0-15. Write/update JavaDoc for Cd, Echo, Mkdir, Mv, Tree
+0-16. Write/update JavaDoc for Cat, Man, Pwd, Speak, Curl, Exit
+a-1. (File) Create setter method for the fileName, pathname, parent, getter method for the parent directory
+a-2. (File) Implement java.io.Serializable
+b-1. Make a CRC card for the save command
+b-2. (Save) Create a class for the save command
+b-3. (Save) Check for errors in command arguments
+b-4. Make the FileSystem instance variable in JShell serializable
+b-5. Make the History variable in JShell serializable
+b-6. (Save) Save the current state of the JShell session
+c-1. Make a CRC card for the load command
+c-2. (Load) Create a class for the load command
+c-3. (Load) Check for errors in command arguments, and check that this is the first command to be called in the current JShell session
+c-4. (Load) Load a JShell session that was previously stored in a file 
+d-1. Make a CRC card for the find command
+d-2. (Find) Create a class for the find command
+d-3. (Find) Check for errors in command arguments 
+d-4. (Find) Search one or more directories for files or subdirectories with the target name
+d-6. Output the results of the search 
+e-1. Create a CRC card for a class or interface that will handle output redirection
+e-2. Have the Ls, History classes collaborate with the output redirection entity
+e-3. Have the Echo, Tree classes collaborate with the output redirection entity
+e-4. Have the Cat, Man, Pwd classes collaborate with the output redirection entity
+e-5. Add output and/or error message instance variables to command classes if needed
+e-6. Have JShell collaborate with output redirection entity if needed
+
+
+These tasks are assigned as follows:
+
+User: Jaedon
+Tasks: 0-1, 0-7, 0-13, a-1, a-2, b-2, b-3, b-4, b-5, b-6, e-5, e-6
+
+User: Aum
+Tasks: 0-2, 0-8, 0-11, 0-12, 0-14, b-1, e-1, e-2
+
+User: Winson
+Tasks: 0-3, 0-6, 0-9, 0-15, d-1, d-2, d-3, d-4, d-5, d-6, e-3
+
+User: Steven
+Tasks: 0-4, 0-5, 0-10, 0-16, c-1, c-2, c-3, c-4, e-4

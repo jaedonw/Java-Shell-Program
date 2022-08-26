@@ -1,0 +1,12 @@
+Class name: Directory
+Parent class (if any): File
+Subclasses (if any):
+
+Responsibilities:
+*Represent the information and contents of a directory
+*Keep and manage collection of files and directories
+
+Collaborators:
+*JShell
+*FileSystem
+

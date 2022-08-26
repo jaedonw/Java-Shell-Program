@@ -1,0 +1,10 @@
+Classname: Load
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*resume a JShell session that was previously saved in a file
+
+Collaborators:
+*JShell
+*ErrorChecker

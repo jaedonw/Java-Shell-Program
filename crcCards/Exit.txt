@@ -1,0 +1,9 @@
+Classname: Exit 
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Stop execution of the shell program
+
+Collaborators:
+*ErrorChecker

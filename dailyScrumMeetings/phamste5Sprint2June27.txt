@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - began coding/implementing Speak class (with help from geeksforgeeks.org)
+    - modified Speak class for use (multiple calls from JShell)
+    - began coding man class 
+
+What do I plan to work in the next three days?
+    - finish coding man class
+    - begin implementing a directory stack system in JShell
+    - continue/finish coding cat class (error check)
+    - prepare for sprint 3
+
+Am I blocked on anything?
+

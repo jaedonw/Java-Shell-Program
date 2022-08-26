@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Modified code to ErrorChecker, JShell, and Command classes
+    - Added methods in File and Interpreter classes
+    - Helped team members brainstorm ideas for Mkdir, Cd, Pwd, Cat, Pushd, Popd
+
+What do I plan to work in the next three days?
+    - Implement the Pushd command
+    - Add documentation to classes
+    - Test and make modifications to classes
+
+Am I blocked on anything?

@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+    - Wrote JUnit tests for the Cp, Interpreter, Pushd, File, FileSystem, and ErrorChecker classes
+    - Updated JavaDocs for Interpreter, File, and ErrorChecker classes-
+    - Refactored the Cp class to improve testability and functionality
+    - Reviewed CRC card designs and informed team members of changes that needed to be made
+    - Fixed indentation issues in classes I wrote previously
+    - Helped team members brainstorm ideas on implementing their classes
+
+What do I plan to work in the next three days?
+	- Continue to test the JShell program and make fixes accordingly
+	- Finish writing JUnit tests for Cp, Interpreter, Pushd, File, FileSystem, ErrorChecker, and Save classes
+	- Refactor code if team decides to change design
+	- Assist team members in brainstorming ideas for their class implementations
+	- Review the style and design of my team's project and make fixes accordingly
+	- Ensure work is submitted on time by the whole team
+
+Am I blocked on anything?

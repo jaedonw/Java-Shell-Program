@@ -1,0 +1,13 @@
+Classname: Cp
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Create a copy of a file or directory somewhere in the file system
+
+Collaborators:
+*File
+*Interpreter
+*ErrorChecker
+*JShell
+*Directory

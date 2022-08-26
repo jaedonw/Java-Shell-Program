@@ -1,0 +1,11 @@
+Classname: Pwd
+Parent class (if any): Command, OutputRedirection
+Subclasses (if any): 
+
+Responsibilities:
+*Print the whole path of the current working directory to the shell 
+
+Collaborators:
+*JShell
+*ErrorChecker
+*FileSystem

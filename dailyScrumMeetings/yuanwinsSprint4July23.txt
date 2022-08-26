@@ -1,0 +1,17 @@
+What did I work on in the last three days? 
+   - created crc cards for mv and tree
+   - implemented the mv and tree command
+   - decide what tasks we will be working next sprint
+
+What do I plan to work in the next three days?
+   - refactor cd, echo, mkdir, mv, tree classes if needed
+   - fix the cd error found from assignment 2A
+   - write JUnit test for cd, echo, mkdir, mv, tree and search for bugs
+   - update java doc for cd, echo, mkdir, mv, tree if needed
+   - make crc card for find
+   - implement the find command
+   - fix echo and tree command to redirect output properly
+
+Am I blocked on anything? 
+   - 
+

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - created CRC card for Load class
+    - added JavaDoc for Curl class
+    - modified String return for Cat, Pwd, Man, and Speak
+    - began coding load class
+
+What do I plan to work in the next three days?
+   - finish coding Load class
+   - continue testing for bugs in Cat, Pwd, Man, Speak, and Exit
+   - begin writing JUnit tests
+
+Am I blocked on anything?

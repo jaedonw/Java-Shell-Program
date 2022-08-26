@@ -1,0 +1,19 @@
+What did I work on in the last three days?
+    - Finished implementing the the cp command
+	- Finalized design for how the save and load commands will work
+	- Finished implementing the save command, and a new class (JShellSession) that helps it function
+	- Helped team brainstorm final design for output redirection
+	- Refactored some classes to work with altered design for the Command class and output redirection
+	- Fixed bad indentation (due to Eclipse formatting error) in classes I wrote previously
+
+What do I plan to work in the next three days?
+	- Write JUnit tests for Cp, Interpreter, Pushd, File, and ErrorChecker classes
+	- Write/update JavaDoc for Cp, Interpreter, Pushd, File, ErrorChecker, JShell, FileSystem classes
+	- Help team ensure that project meets all requirements outlined in the grading scheme
+	- Test JShell program and fix bugs accordingly
+	- Refactor assigned classes when appropriate
+	- Assist team members with brainstorming ideas for refactoring and/or implementing their classes
+	- Assist team members with organizing and/or altering CRC card designs
+	- Ensure that team members submit work on time
+
+Am I blocked on anything?

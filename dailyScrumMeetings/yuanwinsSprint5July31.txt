@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+   - Started working on JUnit for cd, echo, mkdir, mv, tree
+   - Reviewed the Javadocs and made changes when needed
+
+What do I plan to work in the next three days?
+   - Make "Find" JUnit test
+   - Finish JUnit testing and find bugs in current code
+   - Make any necessary changes to commands (ie, fixing bugs, javadocs etc.)
+
+Am I blocked on anything? 
+
+

@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+   - Almost completed Cd class, just need to test for smaller details
+   - Started working on Echo class
+   - Started working on Mkdir class
+
+What do I plan to work in the next three days?
+   - Finish up Cd, Echo and Mkdir
+   - Figuring out how to use other methods to check if Cd received a valid path and if its a directory
+
+Am I blocked on anything? 
+   - Figure out a way to implement Echo class with its 3 cases

@@ -1,0 +1,10 @@
+Classname: JShellSession
+Parent class: 
+Subclasses:
+
+Responsibilities:
+*keep a record of the file system and command history of a JShell session
+
+Collaborators:
+*FileSystem
+*History

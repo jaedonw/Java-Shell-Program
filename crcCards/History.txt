@@ -1,0 +1,12 @@
+Classname: History
+Parent class (if any): Command, OutputRedirection
+Subclasses (if any): 
+
+Responsibilities:
+*Print all or a subset of the commands recently entered by the user to the shell
+
+Collaborators:
+*ErrorChecker
+*FileSystem
+*File 
+*Directory

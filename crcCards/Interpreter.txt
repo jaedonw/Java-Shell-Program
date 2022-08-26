@@ -1,0 +1,12 @@
+Classname: Interpreter
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+*Determine which command was invoked by the user
+*Return an error message if the invoked command does not exist
+*Interpret file pathnames
+*Interpret arguments supplied to commands
+
+Collaborators:
+*Echo

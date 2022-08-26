@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+   - Made a list of bugs needed to be fixed in my classes
+   - Started working on fixing those bugs in Mkdir and Echo
+
+What do I plan to work in the next three days?
+   - Continue checking for errors/bugs in Cd, Mkdir, Echo class
+   - Create JavaDoc for cd, mkdir, echo, command
+   - Make sure all the code is following the rubric format given
+
+Am I blocked on anything? 
+

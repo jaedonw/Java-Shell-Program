@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+   - decided with group what we will be working on this sprint
+   - echo now uses the general redirection method from file
+   - mkdir now supports creation of multiple directories
+   - brainstormed ideas on implementation of tree and mv commands
+
+What do I plan to work in the next three days?
+   - create crc card for mv and tree
+   - implement the mv and tree command
+
+Am I blocked on anything? 
+   - 
+

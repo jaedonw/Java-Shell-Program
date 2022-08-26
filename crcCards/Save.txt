@@ -1,0 +1,11 @@
+Classname: Save
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Save the data of the current JShell session in a file on the user's computers' file system
+
+Collaborators:
+*JShell
+*ErrorChecker
+*JShellSession

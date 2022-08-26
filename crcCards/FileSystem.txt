@@ -1,0 +1,9 @@
+Classname: FileSystem
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+*Keep track of the root directory, current working directory, and directory stack
+
+Collaborators:
+*Directory

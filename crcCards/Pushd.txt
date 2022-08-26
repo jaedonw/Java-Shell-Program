@@ -1,0 +1,13 @@
+Classname: Pushd
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Push the current working directory (CWD) onto the directory stack then change the CWD to a different directory
+
+Collaborators:
+*Cd
+*ErrorChecker
+*File
+*JShell
+*FileSystem

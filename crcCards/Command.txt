@@ -1,0 +1,9 @@
+Classname: Command
+Parent class (if any):
+Subclasses (if any): Exit, Speak, Mkdir, Cd, Ls, Pwd, Pushd, Popd, History, Cat, Echo, Man
+
+Responsibilities:
+*Accept command-line arguments
+*Perform a task when invoked correctly
+
+Collaborators:

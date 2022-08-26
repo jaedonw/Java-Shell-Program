@@ -1,0 +1,13 @@
+As a user, I want to redirect the output of a command so that I can overwrite or append to a file.				1 day
+As a user, I want to remove a directory from the file system.									1.5 days
+As a user, I want to create multiple directories, all at the same time.								1 day
+As a user, I want to view the contents of a directory, including the contents of all of its subdirectories.			2 days
+As a user, I want to change the location of a file or directory.								1.5 days
+As a user, I want to create a copy of a file or directory.									1.5 days
+As a user, I want to view the contents of a single file or multiple files at once.						1 day
+As a user, I want to add a file located at a web address to my directory.							1.5 days
+As a user, I want to save my JShell session so that in the future I can begin from where I left off.				3 days
+As a user, I want to begin a JShell session starting from where I left off in a previous saved session.				3 days
+As a user, I want to view all of the files that have a certain name in my computer’s file system.				3 days
+As a user, I want to see a visual representation of the file system in the form of a tree.					2 days
+As a user, I want to read a manual for a command, so that I can understand what it does and how to use it.			1 day

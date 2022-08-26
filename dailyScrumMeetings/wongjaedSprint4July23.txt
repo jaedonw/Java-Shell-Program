@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Finished almost all of Cp command implementation
+	- Refactored the Interpreter class 
+	- Brainstormed ideas for save, load, and find command implementations
+	- Communicated with teammates to brainstorm ideas, and keep track of workflow
+
+What do I plan to work in the next three days?
+	- Finish Cp command implementation
+	- Finalize design for output redirection and help team implement its class or interface
+	- Finalize how the save command will work and implement it
+
+Am I blocked on anything?
+	- Need to figure out how to make all important parts of a JShell session serializable to implement save and load
+	- Need to figure out how exactly output redirection will work to implement it for all output producing commands

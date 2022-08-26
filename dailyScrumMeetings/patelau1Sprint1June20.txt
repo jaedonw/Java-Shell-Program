@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - brainstormed the design and decided what CRC cards we needed with team. 
+    - worked on JShell and exit command by starting to write base code.
+    - brainstormed design ideas with team for how to process commands and classes related FileSystem. 
+
+What do I plan to work in the next three days?
+    - finish JShell and exit command completely.
+    - work on new tasks for sprint 2.
+    - begin coding Directory class.
+    - help with coming up with ideas for History, FileSystem, and File classes for their implementation. 
+
+Am I blocked on anything?
+    - I need help on coming up with a better design for Directory and FileSystem related classes.
+

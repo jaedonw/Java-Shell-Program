@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Commited Product and Sprint backlogs
+    - Created a CRC card and class for FileSystem
+	- Modified some classes to collaborate with FileSystem
+	- Created a CRC card and class for cp command (Cp class)
+	- Brainstormed ideas about various new command implementations with team
+
+What do I plan to work in the next three days?
+	- Implement the Cp command
+	- Refactor Interpreter class
+	- Brainstorm ideas for save, load, and find command implementations
+	- Help teammates if needed, and ensure team is on the right track
+
+Am I blocked on anything?
+	- Must get a better idea of how save, load, and find commands will be implemented in order to plan the next sprint
+	- Need to figure out how to use Reflection to refactor Interpreter class so that adding new commands becomes easier

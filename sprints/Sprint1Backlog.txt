@@ -1,0 +1,44 @@
+//Sprint 1 Backlog.  
+June 17 to June 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can quit the program when I'm done with it
+b) As a user, I want to create a directory in any location I like
+c) As a user, I want to change my current directory to a different directory
+d) As a user, I want to view the contents of a single file or multiple files at once
+e) As a user, I want to view my current working directory
+f) As a user, I want to be prompted for input, so that I can enter commands
+
+Specific tasks to be accomplished:
+0-1. Work on CRC Cards for exit, speak, and mkdir commands, FileSystem and Command
+0-2. Work on CRC Cards for cd, ls, and pwd commands, JShell, Directory
+0-3. Work on CRC Cards for pushd, popd, ErrorChecker, and history commands
+0-4. Work on CRC Cards for cat, echo, and man commands, File
+a-1. (Exit) Begin coding the Exit class
+b-1. (Directory) Begin coding the Directory class
+b-2. (Mkdir) Begin coding the Mkdir class
+c-1. (Cd) Begin coding the Cd class
+d-1. (Cat) Begin coding the Cat class
+d-2. (File) Begin coding the File class
+e-1. (Pwd) Begin coding the Pwd class
+e-2. (Pwd) Begin writing a method to output the current working directory
+f-1. (JShell) Continually prompt the user for input
+f-2. (JShell) Interpret user input so that it can be passed to the command classes and ErrorChecker
+f-3. (JShell) Start to write base code to allow for collaboration with commands
+f-4. (Command) Begin coding the Command class
+
+
+These tasks are assigned as follows:
+
+User: Jaedon
+Tasks: 0-1, f-4, b-2, d-2
+
+User: Aum
+Tasks: 0-2, f-1, a-1, b-1
+
+User: Winson
+Tasks: 0-3, f-2, c-1, e-1,
+
+User: Steven
+Tasks: 0-4, f-3, d-1, e-2

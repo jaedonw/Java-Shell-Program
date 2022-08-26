@@ -1,0 +1,19 @@
+Classname: JShell
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities:
+*Start up when program is opened
+*Shut down when program is closed
+*Provide a command-line interface
+*Provide access to a file system
+*Prompt the user to enter commands
+*Interpret commands from the user
+
+Collaborators:
+*Command
+*ErrorChecker
+*Interpreter
+*History
+*Directory
+*FileSystem

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - brainstormed Sprint 4 with group members
+    - added new man class documentation (rm, mv, cp, curl, tree)
+    - added curl CRC card
+    - began coding curl class (error checking, making new file, URL retrieval)
+
+What do I plan to work in the next three days?
+   - continue testing curl class
+   - finish documentation for man class
+   - implement output redirection for man, pwd, and cat
+
+Am I blocked on anything?

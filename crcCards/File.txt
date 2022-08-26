@@ -1,0 +1,14 @@
+Classname: File 
+Parent class (if any):
+Subclasses (if any): Directory 
+
+Responsibilities:
+*Represent the information and contents of a file
+*Return a file from the file system
+
+Collaborators:
+*ErrorChecker
+*Directory
+*JShell
+*FileSystem
+*Interpreter

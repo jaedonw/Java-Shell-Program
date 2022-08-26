@@ -1,0 +1,13 @@
+Classname: Tree 
+Parent class (if any): Command, OutputRedirection
+Subclasses (if any): 
+
+Responsibilities:
+*Display the entire file system in a tree format
+
+Collaborators:
+*Interpreter
+*Directory
+*File
+*ErrorChecker
+*FileSystem

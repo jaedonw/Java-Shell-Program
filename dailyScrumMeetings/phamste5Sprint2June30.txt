@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - finished coding man class
+    - continued coding cat class
+    - improved pwd class
+    - improved speak class
+    - planned and prepared for demo with TA
+    - worked on sprint 3 backlog
+
+What do I plan to work in the next three days?
+    - begin/continue testing man, cat, pwd, speak, and JShell for errors
+    - implement single quotation mark support for speak
+    - begin implementing . and .. support for cat
+    - begin writing Javadocs (pwd, man, cat, speak)
+Am I blocked on anything?
+

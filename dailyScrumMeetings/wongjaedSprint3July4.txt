@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Implemented the Pushd command
+    - Added JavaDoc to File, Interpreter, ErrorChecker, Exit, and Pushd classes
+    - Tested program and informed team of any errors
+    - Fixed a bug in Interpreter
+
+What do I plan to work in the next three days?
+    - Continue testing, fixing bugs, and helping teammates brainstorm ideas on how to refactor code
+    - Check that all code and program functionality aligns with the assignment handout
+
+Am I blocked on anything?

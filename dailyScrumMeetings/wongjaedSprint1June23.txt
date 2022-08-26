@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+    - brainstormed ideas for implementations of all classes
+    - brainstormed ideas for data/memory management
+    - Worked on coding File, Mkdir, and Command classes
+    - Worked on CRC cards for Speak and Mkdir
+    - Removed CRC card for FileSystem
+
+What do I plan to work in the next three days?
+    - Create a CRC card for Interpreter and implement the Interpreter class
+    - Implement the ErrorChecker class
+    - Continue working on the File class
+    - Work on the JShell class
+    - Help team members decide on how to implement command classes
+
+Am I blocked on anything?
+    - Need to think more about how traversals will work within our file system to get a better understanding of how to
+      implement other classes

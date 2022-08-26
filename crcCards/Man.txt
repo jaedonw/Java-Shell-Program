@@ -1,0 +1,9 @@
+Classname: Man
+Parent class: Command, OutputRedirection
+Subclasses:
+
+Responsibilities:
+*Print documentation detailing the function of a command and how to use it
+
+Collaborators:
+*ErrorChecker

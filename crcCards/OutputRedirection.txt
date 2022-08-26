@@ -1,0 +1,10 @@
+Classname: OutputRedirection
+Parent interface (if any):
+Subinterfaces (if any):
+Implementations (if any): Ls, History, Echo, Tree, Cat, Man, Pwd 
+
+Responsibilities:
+*Redirect the output of a command if requested by the user
+
+Collaborators:
+

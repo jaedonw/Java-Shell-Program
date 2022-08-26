@@ -1,0 +1,15 @@
+What did I work on in the last three days? 
+   - Fixed cd error found in assignment 2A
+   - Made crc card for find
+   - Implemented the find command
+   - Updated echo, tree to work with file redirection
+   - Made changes to cd, echo, mkdir, mv, tree
+
+What do I plan to work in the next three days?
+   - Refactor cd, echo, mkdir, mv, tree classes if needed
+   - Update Javadoc for cd, echo, mkdir, mv, tree if needed
+   - Write JUnit test for cd, echo, mkdir, mv, tree, find and search for bugs
+
+Am I blocked on anything? 
+   - Figuring out how to write JUnit tests for some commands
+

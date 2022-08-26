@@ -1,0 +1,8 @@
+Classname: MockCommand
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Mimic the Command class for testing purposes
+
+Collaborators:

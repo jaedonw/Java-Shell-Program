@@ -1,0 +1,10 @@
+Classname: ErrorChecker
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities:
+*Check for errors in user input and output error messages correspondingly
+
+Collaborators: 
+*File
+*Interpreter

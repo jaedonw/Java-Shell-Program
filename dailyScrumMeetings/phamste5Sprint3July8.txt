@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - continually improved pwd, man, cat, speak
+    - implemented main methods for testing for pwd, man, cat, speak
+    - wrote JavaDocs for pwd, man, cat, speak
+    - implemented . and .. support for cat
+
+What do I plan to work in the next three days?
+
+Am I blocked on anything?
+

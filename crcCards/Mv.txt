@@ -1,0 +1,13 @@
+Classname: Mv 
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Move a file or directory to a new location in the file system
+
+Collaborators:
+*Interpreter
+*Directory
+*File
+*ErrorChecker
+*FileSystem

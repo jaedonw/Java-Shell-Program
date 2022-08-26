@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - modified existing CRC Cards
+    - added output redirection methods to Cat, Pwd, and Man classes
+    - continued testing for bugs in Cat, Pwd, Man, Speak, Exit
+    - finished coding Load class
+
+What do I plan to work in the next three days?
+   - continue testing for bugs in Cat, Pwd, Man, Speak, Load, and Exit
+   - begin writing JUnit tests
+
+Am I blocked on anything?

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - continued brainstorming design ideas / CRC Cards with team
+    - updated/revised CRC Cards for cat, echo, man, File
+    - improved cat Class
+    - finished pwd Class
+    - planned tasks for sprint 2 with team
+
+What do I plan to work in the next three days?
+    - begin researching/testing how to implement Speak class
+    - incorporate File class for use with Cat class
+    - begin coding man class
+
+Am I blocked on anything?
+    - need file navigation classes (File, Directory) to test pwd and cat

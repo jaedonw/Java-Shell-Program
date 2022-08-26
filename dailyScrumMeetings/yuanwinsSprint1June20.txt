@@ -1,0 +1,14 @@
+What did I work on in the last three days? 
+   - collaborated with team to decide which classes we would need
+   - worked on JShell
+      - created an interpreter to read user input and break it down into two components, command name and arguments
+   - completed CRC cards for popd, pushd, history, ErrorChecker
+
+What do I plan to work in the next three days?
+   - finish up the pwd and cd class
+   - start working on new tasks for sprint 2
+      - decide which classes would be most beneficial to us, so that we can implement it next
+
+Am I blocked on anything? 
+   - need a prototype of directory class to get an idea on how to create the cd class 
+

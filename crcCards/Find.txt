@@ -1,0 +1,14 @@
+Classname: Find
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Searches a path and all its sub directories to find directories or files with a certain name
+
+Collaborators:
+*JShell
+*ErrorChecker
+*FileSystem
+*File
+*Directory
+*Interpreter

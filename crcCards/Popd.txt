@@ -1,0 +1,13 @@
+Classname: Popd
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Remove the top entry of the directory stack and change the current working directory to that directory
+
+Collaborators:
+*Cd
+*ErrorChecker
+*JShell
+*Directory
+*FileSystem

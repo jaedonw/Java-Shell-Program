@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Refactored Command abstract class
+    - Updated CRC cards for things like OutputRedirection interface
+    - Completed JUnit Tests for Ls, History, Popd, Directory, Rm classes
+    - Made the MockFileSystem class (Mock object for file system) to help with JUnit testing
+    - Wrote and updated Javadocs for my classes and my JUnit test classes
+    - Made CRC card for Save class
+
+What do I plan to work in the next three days?
+    - Format all code of the project to Google Java Style Code
+    - Make sure entire project follows grading scheme
+    - Make any changes to my already done work only if needed
+
+Am I blocked on anything?
+    - I need to review the marking scheme and formatting guide

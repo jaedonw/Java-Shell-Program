@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+   - Finished up Echo, Mkdir, Cd class
+   - Started discussing tasks for the next sprint 
+
+What do I plan to work in the next three days?
+   - Check for errors/bugs in Cd, Mkdir, Echo class
+   - Create JavaDoc for cd, mkdir, echo, command
+   - Support "." and ".." in pathname of Mkdir and Echo
+   - Make sure all the code is following the rubric format given
+
+Am I blocked on anything? 
+

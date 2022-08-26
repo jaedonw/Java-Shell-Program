@@ -1,0 +1,79 @@
+//Sprint 2 Backlog.  
+June 24 to June 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be prompted for input, so that I can enter commands
+b) As a user, I want to create a directory in any location I like
+c) As a user, I want to change my current directory to a different directory
+d) As a user, I want to view the contents inside a directory 
+e) As a user, I want to view my current working directory
+f) As a user, I want to view a list of all the commands I have entered previously
+g) As a user, I want to see a subset of the commands I have entered previously
+h) As a user, I want to view the contents of a single file or multiple files at once
+i) As a user, I want to enter text and have it printed on the screen
+j) As a user, I want to overwrite the contents of a file
+k) As a user, I want to add text to the contents of a file
+l) As a user, I want to read a manual for a command, so that I can understand what it does and how to use it
+m) As a user, I want to keep a record of the directories I have been in, so that I can return to the previous one when I want to
+n) As a user, I can quit the program when I am done with it
+o) As a user, I want to enter text and hear it as speech
+
+
+Specific tasks to be accomplished:
+0-1. Work on a CRC card for Interpreter
+0-2. (ErrorChecker) Implement base methods that check for errors
+0-3. (JShell) Keep track of the current working directory and the root directory
+0-4. (File) Finish coding the File class
+0-5. (Directory) Finish coding the Directory class
+0-6. (Command) Finish coding the Command class
+0-7. Make grammatical changes to the CRC cards
+0-8. Manage any necessary modifications to the content of CRC cards
+a-1. (Interpreter) Determine which command was invoked by the user
+a-2. (JShell) Check for errors in user input
+a-3. (JShell) Execute the right command after collaborating with Interpreter
+b-1. (Mkdir) Create a subdirectory in the current working directory
+b-2. (Mkdir) Create a directory specified by a full path
+b-3. (Mkdir) Check for errors in arguments
+c-1. (Cd) Change the current working directory of JShell to a different directory
+c-2. (Cd) Check for errors in arguments
+d-1. (Ls) Print the name of a file to the shell
+d-2. (Ls) Print the contents of a directory to the shell
+d-3. (Ls) Print the names and/or contents of a list of files and/or directories
+d-4. (Ls) Check for errors in arguments
+e-1. (Pwd) Print the current working directory kept track of by JShell
+f-1. (JShell) Keep a record of all commands entered by the user
+f-2. (History) Print all commands previously entered by the user to the shell
+g-1. (History) Print a subset of the commands previously entered by the user to the shell
+g-2. (History) Check for errors in arguments 
+h-1. (Cat) Print the contents of a file to the shell
+h-2. (Cat) Print the contents of multiple files to the shell
+h-3. (Cat) Check for errors in arguments
+i-1. (Echo) Print a string entered by the user to the Shell
+i-2 (Echo) Check for errors in arguments
+j-1. (Echo) Overwrite the contents of a file with a string entered by the user
+j-2 (Echo) Check for errors in arguments
+k-1. (Echo) Append a string to the contents a file
+k-2 (Echo) Check for errors in arguments
+l-1. (Man) Print documentation for a command to the shell
+l-2 (Man) Check for errors in arguments
+m-1. (JShell) Implement a directory stack system
+n-1. (Exit) Check for errors in arguments
+n-2. (Exit) Add method to terminate the program
+n-3. (JShell) Terminate the program when the exit command is correctly invoked
+o-1. (Speak) Begin coding the Speak class
+
+
+These tasks are assigned as follows:
+
+User: Jaedon
+Tasks: 0-1, 0-2, 0-3, 0-4, 0-6, 0-7, 0-8, a-1, a-2, a-3, n-2, n-3
+
+User: Aum
+Tasks: 0-5, f-1, f-2, g-1, g-2, d-1, d-2, d-3, d-4, n-1
+
+User: Winson
+Tasks: c-1, c-2, i-1, i-2, j-1, j-2, k-1, k-2, b-1, b-2, b-3
+
+User: Steven
+Tasks: e-1, h-1, h-2, h-3, l-1, l-2, m-1, o-1

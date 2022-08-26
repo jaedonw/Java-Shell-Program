@@ -1,0 +1,14 @@
+Classname: Cd
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Change the current working directory to a different directory
+
+Collaborators:
+*JShell
+*ErrorChecker
+*File
+*Directory
+*FileSystem
+*Interpreter

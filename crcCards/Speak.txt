@@ -1,0 +1,10 @@
+Classname: Speak
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Output user input as audible speech
+
+Collaborators:
+*FreeTTS
+*ErrorChecker

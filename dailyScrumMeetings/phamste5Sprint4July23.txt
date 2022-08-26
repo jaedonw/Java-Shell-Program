@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - brainstormed Sprint 5 with group members
+    - added new man class documentation (save, load, find)
+    - updated existing man class documentation
+    - added output redirection for pwd
+
+What do I plan to work in the next three days?
+   - modify existing CRC cards
+   - begin writing JUnit tests and JavaDocs for cat, man, pwd, speak, curl, and exit
+   - begin coding load class
+
+Am I blocked on anything?

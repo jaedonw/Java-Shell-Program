@@ -1,0 +1,14 @@
+What did I work on in the last three days? 
+   - worked on Cd class and got the skeleton code ready to be implemented
+   - modified crc cards to reflect the design we plan
+
+What do I plan to work in the next three days?
+   - continue working on Cd class
+   - start working on new task for sprint 2 
+	- cd class
+	- all 3 cases of echo class
+	- mkdir class
+
+Am I blocked on anything? 
+   - deciding how Cd will change the path to its desired location
+   - deciding how I would make a new directory class

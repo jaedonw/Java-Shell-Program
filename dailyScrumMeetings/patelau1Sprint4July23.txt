@@ -1,0 +1,21 @@
+What did I work on in the last three days?
+    - Updated CRC cards to account for changes
+    - Added file redirection to history command
+    - Added file redirectiom to ls command
+    - Implemented the recursive option (-R) to ls command
+    - Fixed bugs in Rm class to correct rm command execution
+
+What do I plan to work in the next three days?
+    - Have group meeting with team to complete Sprint 5 backlog
+    - Refactor any code written by me if needed
+    - Write JUnit Tests for Ls, History, Popd, Directory, Rm, Command classes
+    - Format all code of the project to Google Java Style Code
+    - Write/Update Javadocs for Ls, History, Popd, Directory, Rm, Command classes
+    - Make CRC card for save command
+    - Create CRC card for entity to handle output redirection
+    - Update Ls and History class to work with the output redirection entity
+
+Am I blocked on anything?
+    - How exactly is the save command going to be implemented 
+    - What we can do to better handle output redirection
+    - How to best create JUnit tests for out classes

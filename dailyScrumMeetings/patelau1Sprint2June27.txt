@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+    - Completely finished programming the history command
+    - Tested the history command
+    - Error checked exit command
+    - Made formatting changes to Directory class
+    - Modified constructors for directory object for better inheritance of File class
+    - Started coding Ls.class to start implementing ls command
+
+What do I plan to work in the next three days?
+    - Continue to code Ls class to finish ls command
+    - Once finished coding ls command I need to test it
+    - Start to think about demo and how to present
+    - Start to brainstorm what needs to be done in next sprint
+
+Am I blocked on anything?
+    - We need to figure out how to keep track of current working directory
+    - How and where to keep track of CWD and use it in out command executions

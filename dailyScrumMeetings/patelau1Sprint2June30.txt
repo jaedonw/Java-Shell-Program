@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Made formatting changes to Directory class
+    - Finished coding Ls class to start implementing ls command
+    - Tested ls command
+    - Dicussed with group about demo
+    - Started to discuss and start making the next sprint backlog
+
+What do I plan to work in the next three days?
+    - Finish making sprint 3 backlog with team
+    - Assign tasks to team members by breaking down requirments
+    - Start coding Popd command class
+    - Test all classes I made so far
+    - Ensure formatting throughout whole project
+
+Am I blocked on anything?
+    - I need to review the rubric to check what the expected formatting is

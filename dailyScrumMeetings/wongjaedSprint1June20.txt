@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - worked on CRC cards for Exit, Mkdir, Speak, FileSystem, and Command classes
+    - brainstormed ideas with team for JShell class
+    - worked on coding the Mkdir, Command, and File classes
+
+What do I plan to work in the next three days?
+    - finish CRC cards for Exit, Mkdir, Speak, FileSystem, and Command classes
+    - brainstorm more ideas on JShell design and its relationship to Command
+    - add more code to Mkdir, Command, and File classes
+
+Am I blocked on anything?
+    - need CRC card designs for JShell and Command to be completed and/or more refined 
+      to get a better understanding of how all other classes will come together

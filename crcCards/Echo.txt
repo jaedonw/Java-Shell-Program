@@ -1,0 +1,16 @@
+Classname: Echo
+Parent class: Command, OutputRedirection
+Subclasses:
+
+Responsibilities:
+*Print a string entered by the user to the shell
+*Overwrite a file with a string entered by the user
+*Append a string entered by the user to a file
+
+Collaborators:
+*JShell
+*File
+*Directory
+*ErrorChecker
+*FileSystem
+*Interpreter

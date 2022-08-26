@@ -1,0 +1,12 @@
+Classname: Ls
+Parent class (if any): Command, OutputRedirection
+Subclasses (if any): 
+
+Responsibilities:
+*Print the contents of one or more directories and/or the name of one or more files to the shell
+
+Collaborators: 
+*File
+*Directory
+*JShell
+*FileSystem

@@ -1,0 +1,15 @@
+Classname: MockFileSystem
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+*Encapsulate the foundation of the file system
+*Sets up an file system environtment to run test on
+*Consist of root, dir1, dir2, file1, file2, dir1/dir11, Directory stack
+*Current directory is set up to be dir1/dir11
+
+Collaborators:
+*FileSystem
+*Directory
+*File
+*JShell

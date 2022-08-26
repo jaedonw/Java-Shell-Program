@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+    - Made a CRC card for Interpreter
+    - Made and coded a class for Interpreter
+    - Coded a class for ErrorChecker
+    - Added methods and a instance variable to File class
+    - Updated a subset of the CRC cards
+    - Updated JShell to keep track of important directories
+    - Added code to Exit class
+    - Brainstormed ideas with others on implementations for classes such as Mkdir
+
+What do I plan to work in the next three days?
+    - Brainstorm ideas with other on implementations for Cd class, Echo class, and others
+    - Continue updating CRC cards to match their implementations
+    - Continue working on the File, Interpreter, and ErrorChecker classes
+    - Plan the backlog for sprint 3
+
+Am I blocked on anything?

@@ -1,0 +1,13 @@
+Classname: Rm
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Removes the directory given my specified path
+
+Collaborators: 
+*Directory
+*File
+*ErrorChecker
+*FileSystem
+*Interpreter

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Added tests to Exit, Pushd, File, ErrorChecker, and Interpreter classes
+    - Tested JShell program thoroughly
+    - Made modifications to JavaDoc and method comments
+    - Added a method to Interpreter
+
+What do I plan to work in the next three days?
+
+Am I blocked on anything?

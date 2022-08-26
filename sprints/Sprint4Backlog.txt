@@ -1,0 +1,65 @@
+//Sprint 4 Backlog.  
+July 17 to July 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to redirect the output of a command so that I can overwrite or append to a file.
+b) As a user, I want to remove a directory from the file system.
+c) As a user, I want to create multiple directories, all at the same time.
+d) As a user, I want to view the contents of a directory, including the contents of all of its subdirectories.
+e) As a user, I want to change the location of a file or directory.
+f) As a user, I want to create a copy of a file or directory.
+g) As a user, I want to view the contents of a single file or multiple files at once.
+h) As a user, I want to add a file located at a web address to my directory.
+i) As a user, I want to see a visual representation of the file system in the form of a tree.
+j) As a user, I want to read a manual for a command, so that I can understand what it does and how to use it.
+
+Specific tasks to be accomplished:
+0-1. Make modifications to the CRC card designs from A2a
+0-2. (Interpreter) Refactor getCommand() method to use Hashmaps and Reflection
+0-3. (FileSystem) Create a CRC card for FileSystem
+0-4. (FileSystem) Move root directory, current working directory, directory stack, and file retrieval method into FileSystem class
+0-5. Update other classes that now must collaborate with FileSystem
+a-1. (File) Code a method that overwrites or appends to the contents of a file
+a-2. (History) Add the option to redirect command output to a file 
+a-3. (Ls) Add the option to redirect command output to a file 
+a-4. (Man) Add the option to redirect command output to a file 
+a-5. (Pwd) Add the option to redirect command output to a file 
+a-6. (Cat) Add the option to redirect command output to a file 
+a-7. (Tree) Add the option to redirect command output to a file 
+a-8. (Echo) Add the option to redirect command output to a file 
+b-1. Create a CRC card for the rm command
+b-2. (Rm) Code a method that removes a directory from the file system 
+b-3. (Rm) Check for errors in arguments
+c-1. (Mkdir) Iterate over arguments to create multiple directories at the same time
+d-1. (Ls) Add functionality to recursively search and print the contents of directories
+e-1. Create a CRC card for the mv command
+e-2. (Mv) Code a method that changes the location of a file or directory 
+e-3. (Mv) Check for errors in the arguments
+f-1. (Cp) Create a CRC card for the cp command
+f-2. (Cp) Code a method to create a copy a of a file or directory somewhere in the file system
+f-3. (Cp) Check for errors in the arguments
+h-1. (Curl) Create a CRC card for the curl command
+h-2. (Curl) Begin coding a method to retrieve HTML text from URL
+h-3. (Curl) Begin coding a method to save text to file
+h-4. (Curl) Check for errors in arguments
+i-1. (Tree) Create a CRC card for the tree command
+i-2. (Tree) Begin coding a method to recursively display file system contents
+i-3. (Tree) Check for errors in arguments
+j-1. (Man) Print documentation for new commands
+j-2. (Man) Update documentation for existing commands
+
+
+These tasks are assigned as follows:
+
+User: Jaedon
+Tasks: 0-2, 0-3, 0-4, 0-5, a-1, f-1, f-2, f-3
+
+User: Aum
+Tasks: 0-1, a-2, a-3, b-1, b-2, b-3, d-1
+
+User: Winson
+Tasks: a-7, a-8, c-1, e-1, e-2, e-3, i-1, i-2, i-3
+
+User: Steven
+Tasks: a-4, a-5, a-6, h-1, h-2, h-3, h-4, j-1, j-2

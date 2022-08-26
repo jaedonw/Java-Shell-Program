@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Finished new product backlog for Assignemnt2B with team
+    - Finished making sprint 4 backlog with team
+    - Group meeting to breakdown and assign tasks to everyone
+    - Updated CRC cards to account for new FileSystem class
+    - Added CRC card for Rm class
+    - Coded the Rm class to implement the rm command
+
+What do I plan to work in the next three days?
+    - Add file redirection for history command
+    - Add file redirection for ls command
+    - Add the -R (recursive) option for ls command 
+
+Am I blocked on anything?
+    - I need to understand how my group members are implementing their file redirection, so my classes are consistant
+    - I need to brainstorm more on how to introduce recursion in the ls command

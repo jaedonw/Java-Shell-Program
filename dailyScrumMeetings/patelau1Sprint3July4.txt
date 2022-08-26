@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Finished making sprint 3 backlog with team
+    - Group meeting to breakdown and assign tasks to everyone
+    - Implemented popd command
+    - Testing history, ls, mkdir, and cd commads 
+
+What do I plan to work in the next three days?
+    - Finish testing all classes I made
+    - Ensure formatting throughout whole project
+
+Am I blocked on anything?
+    - I need to review the rubric to check what the expected formatting is

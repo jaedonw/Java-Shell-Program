@@ -1,0 +1,13 @@
+Classname: Mkdir 
+Parent class (if any): Command
+Subclasses (if any): 
+
+Responsibilities:
+*Create a new directory in the file system
+
+Collaborators:
+*Directory
+*JShell
+*File
+*ErrorChecker
+*FileSystem
